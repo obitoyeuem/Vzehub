@@ -4,7 +4,7 @@ local expiryTime = 1682367600 -- Thời gian hết hạn
 local kickMessage = [[
 
 Script đang được tạo vui lòng chờ đợi
-	discord.gg/vxezehub
+	
 
 
 ]]
